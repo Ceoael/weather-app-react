@@ -1,0 +1,14 @@
+.nextDaysForecast {
+    display: flex;
+    flex-wrap: wrap;
+
+    width: 100%;
+    
+    padding: 55px 15px;
+    padding-bottom: 25px;
+}
+@media (min-width: 640px) {
+    .nextDaysForecast {
+        justify-content: center;
+    }
+}

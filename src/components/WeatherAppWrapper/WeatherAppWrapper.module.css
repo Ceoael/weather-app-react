@@ -1,0 +1,9 @@
+.weather-app {
+    overflow: hidden;
+}
+
+@media (min-width: 1024px) {
+  .weather-app {
+    display: flex;
+  }
+}
