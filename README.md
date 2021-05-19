@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://ceoael-weather-app-challenge-react.herokuapp.com/">
+    <a href="https://ceoael-weather-app-react.herokuapp.com/">
       Demo
     </a>
     <span> | </span>
